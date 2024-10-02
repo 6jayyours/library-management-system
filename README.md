@@ -30,7 +30,3 @@ A simple library management system built with Spring Boot. This project demonstr
 git clone https://github.com/6jayyours/library-management-system.git
 cd library-management-system
 
-##
-
-
-
